@@ -1,0 +1,16 @@
+.pageHeader {
+    text-align: center;
+        }
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.shop {
+    border: dotted 2px black;
+    width: 30%;
+}
+
